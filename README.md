@@ -7,7 +7,6 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white"/>
 </p>
 
 ---
@@ -34,7 +33,7 @@ Code212 Desktop Manager is a desktop application built for the **Code212 univers
 |---|---|
 | Language | C++ |
 | UI Framework | Qt |
-| Database | MySQL, SQLite |
+| Database | MySQL |
 
 ---
 
